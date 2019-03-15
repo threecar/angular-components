@@ -17,6 +17,7 @@
     "jeet": "6.1.2",
     "lodash": "^3.10.0",
     "normalize.css": "3.0.3",
+    "gulp": "^3.9.0",
     "rupture": "^0.6.1"
   },
   "devDependencies": {
