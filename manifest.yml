@@ -3,3 +3,4 @@ applications:
 - name: angular-components
   memory: 512M
   instances: 1
+  path: .
